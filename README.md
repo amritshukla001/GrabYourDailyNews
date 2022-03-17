@@ -1,3 +1,11 @@
+# GrabYourDailyNews
+Web app which gives user regularly -updated news as per particular category like General, Business, Entertainment, Health, Sports, Technology. 
+
+
+| <img src="images/1.png" width="200px"> | <img src="images/2.png" width="200px"> | <img src="images/3.png" width="200px"> | <img src="images/4.png" width="200px"> |
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
